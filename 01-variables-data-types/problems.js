@@ -1,3 +1,14 @@
+// Problem 1: Check data type
+let value = "Hello";
+console.log(typeof value);
+
+// Problem 2: Declare variables of all types
+let name = "Ram";
+let age = 22;
+let isStudent = true;
+let empty = null;
+let notDefined;
+
 console.log(name, age, isStudent, empty, notDefined);
 
 // Problem 3: Convert string to number
